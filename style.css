@@ -1,0 +1,18 @@
+/*
+Theme Name: Archi Theme
+Author: Antoine Haddaoui - Cyprien Nicoleau
+Author URI: http://www.antoinehaddaoui.fr
+Description: Our first wordpress custom theme
+Version: 1.0
+*/
+
+
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: #f9f9f9;
+    font-family: Helvetica;
+}
